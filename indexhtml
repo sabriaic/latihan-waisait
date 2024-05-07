@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+	  body {
+	  	
+	  	   background-color pink;
+	  	   background-image: url();
+	  	   background-position: center;
+	  	   background-size: cover;
+	  	   height:	100vh;
+	  	   overflow: hidden;
+	  	   color: white;
+	  	   font-family:	arial;
+	  	   padding:	60px;
+
+	  	   	  }
+	  	   	  h1 {
+	  	   	  	color: green;
+	  	   	  }
+	  	   	  li {
+	  	   	  	color: purple;
+	  	   	  }
+	  	   	  h3 {
+	  	   	  	color: black;
+	  	   	  }
+	  	   	  p{
+	  	   	  	color: purple;
+	  	   	  	font-family: sans-serif;
+	  	   	  }
+	  	   	  .satu{
+	  	   	  	color: purple;
+	  	   	  }
+	 </style>
+</head>  
+<body>  
+	<h1>HELLO</h1>
+
+	
+<div>
+      	   <h3>Personal Web</h3>
+      	   <ul>
+      	   	   <li>nome</li>
+      	   	   <li>contact</li>
+      	   	   <li>about</li>
+      	   	<li>
+         </div>
+
+<center>
+         <h1>welcome<br>to my website</h1>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h1 class="satu">belaja mikrotik </h1>
+<img src="foto om sabri.jpg" width="200px" height="200px"/>
+
+
+
+</center>
+
+      
+
+</body>
+</html>
+
+
+
